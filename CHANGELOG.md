@@ -1,3 +1,8 @@
+## [0.2.1] - 2026-02-24
+
+Project renamed from `go-event-dispatcher` to `go-events`.
+
+---
 
 ## [0.2.0] - 2025-11-23
 
