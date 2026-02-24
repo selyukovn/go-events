@@ -1,4 +1,4 @@
-module github.com/selyukovn/go-event-dispatcher
+module github.com/selyukovn/go-events
 
 go 1.18
 

@@ -1,4 +1,4 @@
-# Event Dispatcher
+# Events
 
 ### TL;DR
 
@@ -6,7 +6,7 @@ A minimalistic package for working with domain (and other) events.
 
 ### Here's the thing
 
-This package was primarily created to avoid copying the domain event dispatcher from one service to another
+This package was primarily created to avoid copying the domain event collection from one service to another
 (in a modular monolith, this code could be in a common module).
 
 ---
